@@ -1,0 +1,36 @@
+*{
+    margin: 2;
+    padding: 0;
+}
+
+#celsius{
+    resize: none;
+    width: 250px;
+    border-radius: 5px;
+}
+
+#convert{
+    align-items: center;
+    background-color: white;
+    color: black;
+    height: 25px;
+    width: 50px;
+    border: 2px solid #555555;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+#convert:hover {
+    background-color: #555555;
+    color: white;
+}
+
+#fahrenheit{
+    margin-top: 10px;
+    resize: none;
+    text-align: center;
+    padding-top: 100px;
+    height: 150px;
+    width: 250px;
+    border-radius: 5px;
+}
